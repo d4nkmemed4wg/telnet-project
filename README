@@ -1,1 +1,3 @@
 Created with PlatformIO Toolchain in VS Code
+
+mydata.h contains personal information like WIFI-password, etc.
