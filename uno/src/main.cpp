@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <SPI.h>
 #include <Ethernet.h>
-#include "..\mydata.h"
+#include "..\..\mydata.h"
 
 byte mac[] = {0x00, 0xAA, 0xBB,0xCC,0xDE,0x02};
 IPAddress ip(192,168,0,119);
